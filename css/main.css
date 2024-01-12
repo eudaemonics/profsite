@@ -111,11 +111,19 @@ p{
 }
 
 .button {
-color: #2B5347; font-size: 16px; line-height: 16px; padding: 6px; margin: 2px 2px; border-radius: 20px; font-family: "Nunito", serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background:#2B5347; box-shadow: rgb(134, 132, 188) 3px 3px 0px 0px; border: 0px solid rgb(28, 110, 164); display: inline-block;} 
+color: #656897; font-size: 16px; line-height: 16px; padding: 6px; margin: 2px 2px; border-radius: 20px; font-family: "Nunito", serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background:#656897; box-shadow: rgb(134, 132, 188) 3px 3px 0px 0px; border: 0px solid rgb(28, 110, 164); display: inline-block;} 
 .button:hover {
-background: #478975; }
+background:  #656897; }
 .button:active {
-background: #478975; }
+background:  #656897; }
+
+/*
+background: #656897;
+background: -moz-linear-gradient(left, #656897 0%, #656897 100%);
+background: -webkit-linear-gradient(left, #656897 0%, #656897 100%);
+background: linear-gradient(to right, #656897 0%, #656897 100%);
+*/
+
 
 
 a{
@@ -179,14 +187,14 @@ background-color:white;
   /*
   grid-area: 1 / .5 / 4 / 2;*/
   background-color: #88cc;
-  width: 50%;
+  width: 75%;
   margin:auto;
 }
 .main-content {
 	grid-area: 2 / 1 / 4 / 4;
   /*grid-area: 1 / 2 / 4 / 4;*/
   background-color: white;
-  width:50%;
+  width:85%;
   margin: auto;
 }
 
@@ -221,8 +229,8 @@ Released under the Unlicense - https://unlicense.org/
   display: grid;
   grid-gap: 5px;
   gap: 5px;
-  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-  grid-auto-rows: minmax(100px, auto);
+  grid-template-columns: repeat(auto-fill, minmax(125px, 1fr));
+  grid-auto-rows: minmax(125px, auto);
 }
 
 .ezgallery.horizontal a {
@@ -233,13 +241,11 @@ Released under the Unlicense - https://unlicense.org/
   text-align: center;
   vertical-align: middle;
   margin: 0 5px 5px 0;
-  max-width: 100px;
-  max-height: 100px;
+  max-width: 125px;
+  max-height: 125px;
   object-fit: contain;
   object-position: bottom;
 }
-
-
 
 
 
