@@ -36,4 +36,4 @@ pixgallery(paths)
 ---
 
 ## Writing
-* [Afterimage]("writing/afterimage.html") - Short story, May 2023
+* [Afterimage](writing/afterimage.html) - Short story, May 2023
