@@ -24,7 +24,7 @@ When I am not working, I enjoy drawing, painting, writing, violin, hiking, writi
 
 ## Research
 
-* Sexism, Streamers, and Simulated Avatars, 2023 ([pdf]("file/chc_thesis.pdf")) - My undergraduate thesis submitted for the Campuswide Honors Collegium at UCI. A meta-analysis of literature on livestreaming, toxicity in online gaming spaces, and the use of virtual avatars in streaming -- colloquially known as "VTubing".
+* Sexism, Streamers, and Simulated Avatars, 2023 ([pdf](file/chc_thesis.pdf)) - My undergraduate thesis submitted for the Campuswide Honors Collegium at UCI. A meta-analysis of literature on livestreaming, toxicity in online gaming spaces, and the use of virtual avatars in streaming -- colloquially known as "VTubing".
   * Presented in [poster format](file/urop_vtuber.png) at the UCI Undergraduate Research Symposium in 2023.
 * Technology Dependency and Impulse Control, 2020 - Undergraduate group research for Psychology 74. Used a survey administered via SurveyMonkey and then analyzed with SPSS.
   * Presented in [poster format](file/tech-and-impulse.png) at Los Angeles Pierce College Research Showcase via Zoom.
