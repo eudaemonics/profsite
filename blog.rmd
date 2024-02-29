@@ -1,0 +1,14 @@
+---
+title: "coventine o. | blog"
+output: 
+  html_document:
+   includes:
+      before_body: header.html
+      after_body: footer.html
+css: "vanilla.css"
+date: "Last edited on `r format(Sys.time(), '%d %B, %Y')`"
+---
+
+# Blog
+* [Leap Day & RMarkdown](blog/leapday.html) - *February 29, 2024*
+* [Mediocre Content](blog/mediocre.html) - *February 13, 2024*

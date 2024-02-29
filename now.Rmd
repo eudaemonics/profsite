@@ -1,0 +1,41 @@
+---
+title: "coventine o. now"
+output: 
+  html_document:
+   includes:
+      before_body: header.html
+      after_body: footer.html
+css: "vanilla.css"
+date: "Last edited on `r format(Sys.time(), '%d %B, %Y')`"
+---
+
+# Now
+
+## Life:
+* Searching for work in my post-bacc period and exploring life's options.
+* Trying for my driver's license a second time!!
+* 日本語を勉強しています。時間があるだからさ、もっと本気になってきました。(もし間違いがある教えてくださいｗｗ) 2024年に日本に行きたいです!
+* Working on my ever-growing list of personal creative projects, primarily short stories, interactive fiction, and illustrations.
+
+---
+
+## Reading:
+* *A Fine and Private Place* by Peter S. Beagle
+* *The Glass Hotel by Emily* St. John Mandel
+
+---
+
+## Watching:
+* *Frieren: Beyond Journey's End*
+* *Halt and Catch Fire*
+* *Wonderful Precure*
+
+---
+
+## Playing:
+* *Persona 3 Portable* (Nintendo Switch)
+* *Touhou: Artificial Dream in Arcadia* (PC)
+* *Ensemble Stars!! Music* (Mobile)
+* *Splatoon 3: Side Order*
+
+[What is this page?](https://nownownow.com/about)

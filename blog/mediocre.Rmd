@@ -1,0 +1,33 @@
+---
+title: "coventine o. | mediocre content"
+output: 
+  html_document:
+   includes:
+      before_body: "header.html"
+      after_body: "../footer.html"
+css: "../vanilla.css"
+date: "Created February 13, 2024<br>Last edited on `r format(Sys.time(), '%B %d, %Y')`"
+---
+
+# "Mediocre Content"
+
+I made this blog as a bit of an archive of my more 'professional' exploits and activities, so of course the best way to kick this off is by starting a blog and writing a blog post.
+
+In all serious, this is more inspired by btxx's concept of brain dumps than anything else, but one specific quote from his posts about "dumps" has me thinking:
+
+> Convenience breeds laziness. Laziness breeds mediocrity.
+
+Now, I'm going to be honest: I'm not sure if Mr. Taunt got this quote from somewhere else or if it was an invention from his own mind (Search engines seem to imply the latter), but the quote seems to contradict the point of his post advocating for more brain dumps.
+
+Admittedly: There is a lot of mediocre content floating around the Internet, and I think these things would exist, regardless of if having an Internet presence was easy or not. Even before the era of Twitter -- Sorry, X -- Mastodon, Tumblr, Reddit, people were posting, but none of it was particularly groundbreaking.
+
+I think I have a bit of a strong attachment to "everyone should have access to a personalized space on the Internet" as someone who
+
+1. Rarely has time to actually update the blogs they've made
+2. Likes to try and do everything by hand or as a way to teach myself a new skill (Currently that's me looking into SSGs, but I should probably just pick up Python first).
+
+Basically. All of this I'm writing up to say that maybe we shouldn't be scared of mediocrity? If you look in any bookstore and pull any random book on the shelf, you're likely to find something with a 3-3.5 star review on your book app of choice. If published authors are making things that are mediocre, maybe we, as human beings, as creatures that are constantly learning, should stop being afraid of mediocrity.
+
+I poured blood, sweat, and tears into an undergraduate thesis on an honestly niche topic, but it was something I was passionate about. And you know what: It turned out fine, maybe not amazing, I'm impressed with it, but in the grand scheme of things it is probably mediocre! And I think it's important to not be scared of mediocrity, and we shouldn't think of that as "settling".
+
+Anyway, this is pretty stream of consciousness, it's a brain dump and not an essay, you know? I've just wanted to get this thought out somewhere, and I figured I should actually hold myself to updating the brain dumps on this site.
