@@ -17,7 +17,7 @@ I've given the site a bit of a facelift since as much as I liked my last style, 
 
 I used RStudio a lot in my undergrad and while there's still a lot I need to learn, RMarkdown as an own SSG is pretty useful and versatile and most importantly: not intimidating for me since I use Markdown basically every day. Admittedly it took a lot of googling for me to understand the YAML parameters -- I really need to take notes about how to write a good YAML header. At least I managed to get a functional header and footer working? Special thanks to [Holtz](https://holtzy.github.io/Pimp-my-rmd/#text_formating) for this quick and easy tutorial on RMD to HTML and injecting HTML snippets into my site.
 
-For CSS, I'm using vanilla CSS, which is a very cool [open source](https://vanillacss.com/) open-source style sheet that I really liked the look of. Though I did adjust some of the colors to give my site more flavor.
+For CSS, I'm using vanilla CSS, which is a very cool [open-source](https://vanillacss.com/) style sheet that I really liked the look of. Though I did adjust some of the colors to give my site more flavor.
 
 I also updated the [gallery](../creative.html) to be more aesthetically pleasing too. I love Roy Francis' [pixture](https://github.com/royfrancis/pixture) library which made organizing and adding things to my gallery so much easier, though I need to figure out how to add captions if that's even possible. If I take enough pictures on my trip next month, I'll use this when I make a post about it.
 
